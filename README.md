@@ -1,5 +1,4 @@
-# WALMART-DATA-ANALYSIS
-# 📊 Amazon Sales Analytics Dashboard
+# 📊 Walmart Sales Analytics Dashboard
 
 ### 🧠 Project Overview
 This Power BI project provides an **Amazon Sales Analytics Solution** designed to uncover insights into sales performance, profit trends, and product category distribution.  
@@ -16,7 +15,11 @@ It visualizes key metrics to help stakeholders understand sales patterns, identi
 ---
 
 ## 🖼️ Dashboard Preview
-![Amazon Sales Dashboard](assets/Amazon_Sales_Dashboard.png)
+
+![Amazon Sales Dashboard](https://github.com/Kamachari/WALMART-DATA-ANALYSIS/blob/main/Walmart%20Sales%20Dashboard.png)
+
+---
+
 ## 📈 Dashboard Insights
 
 ---
@@ -63,23 +66,16 @@ It visualizes key metrics to help stakeholders understand sales patterns, identi
 ---
 
 ## 🧾 Dataset Source  
-Data Source: [Amazon Sales Dataset - Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+Data Source: [Amazon Sales Dataset](https://github.com/Kamachari/WALMART-DATA-ANALYSIS/blob/main/WALMART%20Dataset.xlsx)
 
-
----
-
-## 🚀 How to Use
-1. Clone the repository.  
-2. Open the `.pbix` file in **Power BI Desktop**.  
-3. Explore the visuals and interact with filters to gain insights.  
 
 ---
 
 ## 📂 Project Structure
 ```
-📁 Amazon-Sales-Analytics-Dashboard
- ┣ 📊 Amazon_Sales_Analytics.pbix
- ┣ 📄 Amazon_Sales_Dataset.xlsx
+📁 Walmart-Sales-Analytics-Dashboard
+ ┣ 📊 Walmart-Dataset.xlsx
+ ┣ 📄 Walamrt-Dashboard.png
  ┗ 📘 README.md
 ```
 
@@ -91,7 +87,7 @@ The **Amazon Sales Analytics Dashboard** helps in understanding the performance 
 ---
 
 ## 🧑‍💻 Author
-**Kamachari Buragapalli**  
+**Buragapalli Kamachari**  
 📍 Andhra Pradesh, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/buragapalli-kamachari-931624269/)
 
