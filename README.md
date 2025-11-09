@@ -15,7 +15,11 @@ It visualizes key metrics to help stakeholders understand sales patterns, identi
 
 ---
 
+## 🖼️ Dashboard Preview
+![Amazon Sales Dashboard](assets/Amazon_Sales_Dashboard.png)
 ## 📈 Dashboard Insights
+
+---
 
 ### Key Metrics
 - **Total Sales:** ₹725.46K  
@@ -58,9 +62,9 @@ It visualizes key metrics to help stakeholders understand sales patterns, identi
 
 ---
 
-## 🧾 Dataset Source
-> Sample dataset inspired by Amazon’s e-commerce sales data.  
-*(You can replace with your actual dataset source or link if available.)*
+## 🧾 Dataset Source  
+Data Source: [Amazon Sales Dataset - Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+
 
 ---
 
