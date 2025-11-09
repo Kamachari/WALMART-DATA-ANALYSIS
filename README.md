@@ -66,7 +66,7 @@ It visualizes key metrics to help stakeholders understand sales patterns, identi
 ---
 
 ## 🧾 Dataset Source  
-Data Source: [Amazon Sales Dataset](https://github.com/Kamachari/WALMART-DATA-ANALYSIS/blob/main/WALMART%20Dataset.xlsx)
+Data Source: [Walmart Sales Dataset](https://github.com/Kamachari/WALMART-DATA-ANALYSIS/blob/main/WALMART%20Dataset.xlsx)
 
 
 ---
